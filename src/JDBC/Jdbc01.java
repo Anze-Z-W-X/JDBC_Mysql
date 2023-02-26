@@ -6,7 +6,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
-
+//
 public class Jdbc01 {
     public static void main(String[] args) throws SQLException {
         //前置工作：在项目下建立libs文件夹，放入mysql-connector-j-8.0.31.jar,再右键选中add as library
